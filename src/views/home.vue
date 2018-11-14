@@ -20,7 +20,7 @@
     data () {
       return {
         height: util.env.getPageHeight() - 0,
-        logo: 'https://kjfw.zbj.com/assets/images/logo.png',
+        logo: 'https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_86d58ae1.png',
         btnStyle : {'backgroundColor': '#ff7720', 'width': '600px'}
       }
     },
